@@ -1,7 +1,7 @@
 {
   "name": "advanced-calculus-toolkit",
   "type": "module",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This module provides a collection of functions for performing various calculus operations such as derivatives, integrals, and numerical methods for improving accuracy.",
   "main": "src/index.js",
   "scripts": {
